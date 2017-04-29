@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.4.0)
+  - SwiftyCam (2.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - SwiftyCam
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  SwiftyCam: be1f832a32b12810e86e23a87caccadd855226ea
+
+PODFILE CHECKSUM: f2f58c3ebc6b1218b255a1d142e4a04ef6cec228
+
+COCOAPODS: 1.1.1
