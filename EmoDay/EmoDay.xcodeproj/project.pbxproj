@@ -14,6 +14,7 @@
 		321B15401EB49A0F00D75EE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 321B153F1EB49A0F00D75EE7 /* Assets.xcassets */; };
 		321B15431EB49A0F00D75EE7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 321B15411EB49A0F00D75EE7 /* LaunchScreen.storyboard */; };
 		321B154E1EB49A0F00D75EE7 /* EmoDayTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 321B154D1EB49A0F00D75EE7 /* EmoDayTests.swift */; };
+		322EA3B61EB50A9F002205B5 /* SubmitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322EA3B51EB50A9F002205B5 /* SubmitViewController.swift */; };
 		A6F497BE6581D94CC8DFCDA5 /* Pods_EmoDay.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 695A7C9F331B93FCC844B7AF /* Pods_EmoDay.framework */; };
 /* End PBXBuildFile section */
 
@@ -40,6 +41,7 @@
 		321B15491EB49A0F00D75EE7 /* EmoDayTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EmoDayTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		321B154D1EB49A0F00D75EE7 /* EmoDayTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmoDayTests.swift; sourceTree = "<group>"; };
 		321B154F1EB49A0F00D75EE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		322EA3B51EB50A9F002205B5 /* SubmitViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubmitViewController.swift; sourceTree = "<group>"; };
 		695A7C9F331B93FCC844B7AF /* Pods_EmoDay.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EmoDay.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		93ED1E120287A3A56EBFAA50 /* Pods-EmoDay.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EmoDay.release.xcconfig"; path = "Pods/Target Support Files/Pods-EmoDay/Pods-EmoDay.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -93,6 +95,7 @@
 				321B153F1EB49A0F00D75EE7 /* Assets.xcassets */,
 				321B15411EB49A0F00D75EE7 /* LaunchScreen.storyboard */,
 				321B15441EB49A0F00D75EE7 /* Info.plist */,
+				322EA3B51EB50A9F002205B5 /* SubmitViewController.swift */,
 			);
 			path = EmoDay;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				322EA3B61EB50A9F002205B5 /* SubmitViewController.swift in Sources */,
 				321B153B1EB49A0F00D75EE7 /* SecondViewController.swift in Sources */,
 				321B15371EB49A0F00D75EE7 /* AppDelegate.swift in Sources */,
 				321B15391EB49A0F00D75EE7 /* FirstViewController.swift in Sources */,
